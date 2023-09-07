@@ -1,0 +1,22 @@
+
+.about-us-text {
+    padding: 0 0 0 50px;
+}
+
+.bulleted-list {
+    display: flex;
+}
+
+.bulleted-list > p {
+    padding: 0 0 0 8px;
+    font-size: large;
+}
+
+.dot-icon {
+    width: 10px;
+    padding: 15px 0 0 0;
+}
+
+.dot-icon > img {
+    width: 100%;
+}
