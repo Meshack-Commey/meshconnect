@@ -1,4 +1,4 @@
-# MESHCONNECT SMART NETWORK 
+# SMART MESHCONNECT NETWORK 
 
 ## Smart Network Product Design
 
