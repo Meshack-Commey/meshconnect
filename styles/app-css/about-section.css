@@ -20,3 +20,11 @@
 .dot-icon > img {
     width: 100%;
 }
+
+.icon {
+    width: 30px;
+}
+
+.icon > img {
+    width: 100%;
+}

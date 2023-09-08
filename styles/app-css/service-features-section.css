@@ -1,0 +1,36 @@
+
+.features-section-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 50px 0 0 0;
+}
+
+.features-section-grid-item {
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.avatar {
+    background: lightgray;
+    border-radius: 112px;
+    margin: 20px;
+    padding: 15px;
+    
+}
+
+.avatar-icon {
+    width: 2px;
+}
+
+.avatar-icon > img {
+    width: 30px;
+}
+
+/* .avatar > img {
+
+} */
